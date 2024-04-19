@@ -32,8 +32,9 @@ This project utilizes the following testing tools and libraries:
 
 ## UI Example
 
-[![Video Title](https://drive.google.com/file/d/19wnhtYOBF0wdPHxKx5fe4oguc_SVCZ0_/view?usp=sharing)]
-  
+ 
+  [![Video Title](https://drive.google.com/uc?export=download&id=19wnhtYOBF0wdPHxKx5fe4oguc_SVCZ0_)](https://drive.google.com/file/d/19wnhtYOBF0wdPHxKx5fe4oguc_SVCZ0_/view?usp=sharing)
+
 
 
 Happy testing! 🧪✨
