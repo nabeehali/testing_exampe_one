@@ -4,6 +4,9 @@ Welcome to the Flutter Software Testing Project repository! This project aims to
 
  
 ## Overview
+
+This example demonstrates how to test methods such as validating emails using regular expressions (regex), reversing specific sentences, and converting them to lowercase and uppercase.
+
 This project includes examples and implementations of different types of software testing in Flutter:
 
 - Unit Testing
